@@ -1,4 +1,4 @@
-Hi, my name is 2-1 and this is my repository.
+Hi, my name is Tuan and this is my repository.
 
 Currently, it is being used for my current portfolios.
 
