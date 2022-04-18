@@ -2,6 +2,14 @@ Hi, my name is Tuan and this is my repository.
 
 Currently, it is being used for my current portfolios.
 
+Here are links to my other profiles:
+
+LinkedIn
+https://www.linkedin.com/in/iistwoone/
+
+Tableau
+https://public.tableau.com/app/profile/tuan.doung#!/?newProfile=&activeTab=0
+
 Thanks!
 
 <!---
