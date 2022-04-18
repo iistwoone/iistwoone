@@ -1,6 +1,6 @@
 Hi, my name is Tuan and this is my repository.
 
-Currently, it is being used for my current portfolios.
+Currently, it is being used to showcase my current portfolios.
 
 Here are links to my other profiles:
 
